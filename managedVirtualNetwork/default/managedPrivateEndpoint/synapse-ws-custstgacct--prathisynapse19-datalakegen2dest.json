@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--prathisynapse19-datalakegen2dest",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3db5f615-917e-4df2-8f89-2abef7d56463/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/datalakegen2dest",
+		"groupId": "dfs"
+	}
+}

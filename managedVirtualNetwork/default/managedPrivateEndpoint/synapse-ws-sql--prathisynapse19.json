@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--prathisynapse19",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3db5f615-917e-4df2-8f89-2abef7d56463/resourceGroups/Day4RG/providers/Microsoft.Synapse/workspaces/prathisynapse19",
+		"groupId": "sql",
+		"fqdns": [
+			"prathisynapse19.de05cc05-0b18-4e4c-bdc5-57d580daa533.sql.azuresynapse.net"
+		]
+	}
+}
